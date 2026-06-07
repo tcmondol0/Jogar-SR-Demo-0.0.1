@@ -1,0 +1,6 @@
+{
+  "name": "Jogar",
+  "description": "A mobile-first Bengali client B2B distribution sales representative dashboard that supports offline order taking, real-time geolocated shop check-ins, payment collections, and product recommendations in Mirpur, Dhaka.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
